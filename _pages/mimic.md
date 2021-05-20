@@ -11,9 +11,6 @@ redirect_from:
 
 Admissions
 ======
-* B.S. in GitHub, GitHub University, 2012************
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 @prefix : <http://www.semanticweb.org/administrator/ontologies/2021/4/untitled-ontology-3#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
