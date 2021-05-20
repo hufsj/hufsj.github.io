@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aslam / Dr."
 title_separator          : "-"
 name                     : &name "Aslam"
-description              : &description "personal description******"
+description              : &description "personal description"
 url                      : https://hufsj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hufsj/hufsj.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Muhammad Aslam Jarwar"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Research Fellow"
   location         : "Manchester"
   employer         : "University of Manchester"
   pubmed           : 
